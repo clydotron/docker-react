@@ -9,4 +9,4 @@ before_install:
   script:
     - docker run -e CI=true clydotron/docker-react npm run test
 
-    
+\n
